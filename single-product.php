@@ -1,6 +1,6 @@
 <?php
 /**
- * Template used for single posts and other post-types
+ * TEST Template used for single posts and other post-types
  * that don't have a specific template.
  *
  * @package Avada
